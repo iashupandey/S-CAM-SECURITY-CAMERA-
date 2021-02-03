@@ -23,4 +23,4 @@ while cam.isOpened():
 
     if cv2.waitKey(10) == ord('q'):
         break
-    cv2.imshow('scam 1992', frame1)
+    cv2.imshow('S-CAM', frame1)
